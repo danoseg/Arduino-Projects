@@ -1,10 +1,4 @@
-/*   Arduino Compass 
- *      
- *  by Dejan Nedelkovski, 
- *  www.HowToMechatronics.com
- *  
- */
- 
+
 import processing.serial.*;
 import java.awt.event.KeyEvent;
 import java.io.IOException;
