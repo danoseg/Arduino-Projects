@@ -1,7 +1,3 @@
-/*    Arduino Long Range Wireless Communication using HC-12
-                      Example 01
-   by Dejan Nedelkovski, www.HowToMechatronics.com
-*/
 #include <SoftwareSerial.h>
 SoftwareSerial HC12(10, 11); // HC-12 TX Pin, HC-12 RX Pin
 void setup() {
