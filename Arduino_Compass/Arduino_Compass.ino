@@ -1,10 +1,3 @@
-/*   Arduino Compass 
- *      
- *  by Dejan Nedelkovski, 
- *  www.HowToMechatronics.com
- *  
- */
-
 #include <Wire.h> //I2C Arduino Library
 
 #define Magnetometer_mX0 0x03  
