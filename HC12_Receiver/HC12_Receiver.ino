@@ -1,8 +1,3 @@
-/*    Arduino Long Range Wireless Communication using HC-12
-        Example 02 - Changing channels using push buttons
-   by Dejan Nedelkovski, www.HowToMechatronics.com
-*/
-
 #include <SoftwareSerial.h>
 
 #define setPin 6
